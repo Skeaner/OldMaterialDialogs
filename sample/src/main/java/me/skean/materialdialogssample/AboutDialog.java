@@ -5,7 +5,7 @@ import android.os.Bundle;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.DialogFragment;
 import androidx.appcompat.app.AppCompatActivity;
-import com.afollestad.materialdialogs.MaterialDialog;
+import me.skean.materialdialogs.MaterialDialog;
 
 /** @author Aidan Follestad (afollestad) */
 public class AboutDialog extends DialogFragment {

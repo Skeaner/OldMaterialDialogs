@@ -10,8 +10,8 @@ import android.view.InflateException;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.webkit.WebView;
-import com.afollestad.materialdialogs.MaterialDialog;
-import com.afollestad.materialdialogs.Theme;
+import me.skean.materialdialogs.MaterialDialog;
+import me.skean.materialdialogs.Theme;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
