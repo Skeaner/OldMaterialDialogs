@@ -1,0 +1,11 @@
+ext.versions = [
+        minSdk            : 14,
+        compileSdk        : 28,
+        buildTools        : '26.0.2',
+        publishVersion    : '0.9.6.0',
+        publishVersionCode: 179,
+        gradlePlugin      : '3.0.1',
+
+        mdProgressBar     : '1.6.1',
+        butterKnife       : '10.2.3'
+]

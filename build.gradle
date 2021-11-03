@@ -1,0 +1,31 @@
+apply from: './dependencies.gradle'
+
+buildscript {
+    apply from: './dependencies.gradle'
+
+    repositories {
+        mavenCentral()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:' + versions.gradlePlugin
+    }
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+        google()
+    }
+
+    buildscript {
+        repositories {
+            maven { url "https://plugins.gradle.org/m2/" }
+        }
+    }
+
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
