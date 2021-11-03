@@ -1,4 +1,4 @@
-package com.afollestad.materialdialogssample;
+package me.skean.materialdialogssample;
 
 import android.Manifest;
 import android.annotation.TargetApi;
@@ -42,6 +42,7 @@ import com.afollestad.materialdialogs.internal.ThemeSingleton;
 import com.afollestad.materialdialogs.simplelist.MaterialSimpleListAdapter;
 import com.afollestad.materialdialogs.simplelist.MaterialSimpleListItem;
 import com.afollestad.materialdialogs.util.DialogUtils;
+
 import java.io.File;
 
 /** @author Aidan Follestad (afollestad) */

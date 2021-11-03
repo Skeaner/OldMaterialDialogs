@@ -1,4 +1,4 @@
-package com.afollestad.materialdialogssample;
+package me.skean.materialdialogssample;
 
 import android.app.Dialog;
 import android.os.Bundle;

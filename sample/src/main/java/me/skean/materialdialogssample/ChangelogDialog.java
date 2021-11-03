@@ -1,4 +1,4 @@
-package com.afollestad.materialdialogssample;
+package me.skean.materialdialogssample;
 
 import android.annotation.SuppressLint;
 import android.app.Dialog;
@@ -12,6 +12,7 @@ import android.view.View;
 import android.webkit.WebView;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.Theme;
+
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;

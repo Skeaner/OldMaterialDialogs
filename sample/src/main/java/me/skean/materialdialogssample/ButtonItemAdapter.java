@@ -1,4 +1,4 @@
-package com.afollestad.materialdialogssample;
+package me.skean.materialdialogssample;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
+
 
 /** Simple adapter example for custom items in the dialog */
 class ButtonItemAdapter extends RecyclerView.Adapter<ButtonItemAdapter.ButtonVH> {

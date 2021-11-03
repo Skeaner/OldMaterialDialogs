@@ -1,10 +1,11 @@
-package com.afollestad.materialdialogssample;
+package me.skean.materialdialogssample;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.preference.PreferenceFragment;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.MenuItem;
+
 
 @SuppressLint("NewApi")
 public class PreferenceActivity extends AppCompatActivity {
