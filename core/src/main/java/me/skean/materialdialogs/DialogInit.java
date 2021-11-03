@@ -21,7 +21,7 @@ import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 import android.widget.ScrollView;
 
-import com.afollestad.materialdialogs.R;
+import me.skean.materialdialogs.R;
 
 import me.skean.materialdialogs.internal.MDAdapter;
 import me.skean.materialdialogs.internal.MDButton;

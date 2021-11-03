@@ -16,7 +16,7 @@ import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.ScrollView;
 import me.skean.materialdialogs.GravityEnum;
-import com.afollestad.materialdialogs.R;
+import me.skean.materialdialogs.R;
 import me.skean.materialdialogs.StackingBehavior;
 import me.skean.materialdialogs.util.DialogUtils;
 

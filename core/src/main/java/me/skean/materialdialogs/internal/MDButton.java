@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import android.view.Gravity;
 import android.widget.TextView;
 import me.skean.materialdialogs.GravityEnum;
-import com.afollestad.materialdialogs.R;
+import me.skean.materialdialogs.R;
 import me.skean.materialdialogs.util.DialogUtils;
 
 /** @author Kevin Barry (teslacoil) 4/02/2015 */

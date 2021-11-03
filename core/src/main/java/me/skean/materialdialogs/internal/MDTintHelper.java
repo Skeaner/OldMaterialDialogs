@@ -20,7 +20,7 @@ import android.widget.ProgressBar;
 import android.widget.RadioButton;
 import android.widget.SeekBar;
 import android.widget.TextView;
-import com.afollestad.materialdialogs.R;
+import me.skean.materialdialogs.R;
 
 import java.lang.reflect.Field;
 

@@ -15,7 +15,7 @@ import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.TextView;
 
-import com.afollestad.materialdialogs.R;
+import me.skean.materialdialogs.R;
 
 import me.skean.materialdialogs.internal.MDTintHelper;
 import me.skean.materialdialogs.util.DialogUtils;
