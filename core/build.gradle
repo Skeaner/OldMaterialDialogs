@@ -1,7 +1,17 @@
 apply plugin: 'com.android.library'
 apply from: '../dependencies.gradle'
 
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.Skeaner'
 
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
+    }
+}
 
 android {
     compileSdkVersion versions.compileSdk
