@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply from: '../dependencies.gradle'
 
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.Skeaner'
+group='com.github.Skeaner.OldMaterialDialogs'
 
 buildscript {
     repositories {
@@ -42,3 +42,5 @@ dependencies {
     implementation project(':core')
 }
 
+/****以下是本地打包脚本, 终端执行gradlew install, 打包完成在/用户文件夹/.m2/repository里面****/
+apply from: 'punish_local.gradle'
